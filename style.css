@@ -52,7 +52,7 @@ navbar a {
 
 
 #showcase {
-    background-image: url("/img/clopthes.jpg");
+    background-image: url("img/clopthes.jpg");
     background-position: center right;
     min-height: 300px;
     margin-bottom: 30px;
